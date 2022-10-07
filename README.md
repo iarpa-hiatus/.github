@@ -2,22 +2,22 @@ Welcome to team **PAUSIT**'s organization page. You will find our code repositor
 
 #### Team Members
 
-University of Pennslyvania:
+**University of Pennslyvania**
   - Chris Callison-Burch 
   - Marianna Apidianaki
   - Veronica Qing Lyu 
   - Ajay Patel
   - Delip Rao
   
-Stony Brook University
+**Stony Brook University**
   - Owen Rambow 
   - Andy Schwartz
   - Niranjan Balasubramanian
   - Sarena Romano 
   
-Columbia:
+**Columbia**
  - Kathleen McKeown 
  - Smaranda Muresan
 
 #### Point of contact:
-Prof. Chris Callison-Burch: `ccb AT seas DOT upenn DOT edu`
+Chris Callison-Burch: `ccb AT seas DOT upenn DOT edu`
