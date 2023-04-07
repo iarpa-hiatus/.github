@@ -7,17 +7,25 @@ Welcome to team **PAUSIT**'s organization page. You will find our code repositor
   - Marianna Apidianaki
   - Veronica Qing Lyu 
   - Ajay Patel
-  - Delip Rao
+  - Yixuan Meng
+  - Cassie Huang
+  - Tai Nguyen
   
 **Stony Brook University**
   - Owen Rambow 
   - Andy Schwartz
   - Niranjan Balasubramanian
-  - Sarena Romano 
+  - Eric Sclafani
+  - Pegah Alipoormola
+  - Nikita Soni
+  
   
 **Columbia**
  - Kathleen McKeown 
  - Smaranda Muresan
+ - Ansh Kothary
+ - Arkadiy Saakyan
+ - Zachary Horvitz
 
 #### Point of contact:
 Chris Callison-Burch: `ccb AT seas DOT upenn DOT edu`
