@@ -10,6 +10,7 @@ Welcome to team **PAUSIT**'s organization page. You will find our code repositor
   - Yixuan Meng
   - Cassie Huang
   - Tai Nguyen
+  - Pooja Dattatri
   
 **Stony Brook University**
   - Owen Rambow 
