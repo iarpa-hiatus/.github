@@ -20,6 +20,7 @@ Welcome to team **PAUSIT**'s organization page. You will find our code repositor
   - Eric Sclafani (employment ended as of 8/18/23)
   - Pegah Alipoormola
   - Nikita Soni
+  - Gourab Dey
   
   
 **Columbia**
