@@ -18,7 +18,7 @@ Welcome to team **PAUSIT**'s organization page. You will find our code repositor
   - Niranjan Balasubramanian
   - Peter Zeng
   - Eric Sclafani (employment ended as of 8/18/23)
-  - Pegah Alipoormola
+  - Pegah Alipoormolabashi
   - Nikita Soni
   - Gourab Dey
   
